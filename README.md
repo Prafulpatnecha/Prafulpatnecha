@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Praful Patnecha</h1>
 
-<h3 align="center">A passionate <b style="color: blue;">Flutter</b> developer from India</h3>
+<h3 align="center">A passionate <b style="color: black;">Flutter</b> developer from India</h3>
 
 <img align="right" width="400" src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/4f91477586999b7ccce46f0947d0fa77151323c5/giphy.gif?raw=true">
 
