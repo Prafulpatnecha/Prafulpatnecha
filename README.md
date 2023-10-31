@@ -1,4 +1,4 @@
-![logo](https://github.com/Prafulpatnecha/Prafulpatnecha/blob/main/WhatsApp%20Video%202023-10-30%20at%206.44.04%20PM.mp4)
+![logo](https://github.com/Prafulpatnecha/Prafulpatnecha/blob/ed523b8300e8c154531f24e81b4830f2454169ba/benner.jpg)
 
 <h1 align="center">Hi 👋, I'm Praful Patnecha</h1>
 
