@@ -1,9 +1,10 @@
 ![logo](https://github.com/Prafulpatnecha/Prafulpatnecha/blob/ed523b8300e8c154531f24e81b4830f2454169ba/benner.jpg)
 <head><style>
-  .g{
+  body{
     background: linear-gradient(aqua,rgb(235, 73, 113));
   }
 </style></head>
+<body>
 <h1  class="g" align="center">Jai Shree Ram</h1>
 
 <h1 align="center">Hi 👋, I'm Praful Patnecha</h1>
@@ -35,3 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafulpatnecha&" alt="prafulpatnecha" /></p>
 
+</body>
