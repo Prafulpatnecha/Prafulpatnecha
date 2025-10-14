@@ -1,4 +1,4 @@
-![logo](https://github.com/Prafulpatnecha/Prafulpatnecha/blob/ed523b8300e8c154531f24e81b4830f2454169ba/benner.jpg)
+![logo]([https://github.com/Prafulpatnecha/Prafulpatnecha/blob/ed523b8300e8c154531f24e81b4830f2454169ba/benner.jpg](https://github.com/Prafulpatnecha/Prafulpatnecha/blob/main/banner2.svg))
 
 
 <h1  class="g" align="center">Jai Shree Ram</h1>
