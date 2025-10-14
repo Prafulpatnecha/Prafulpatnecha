@@ -34,6 +34,90 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Praful Patnecha banner">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="50%" stop-color="#0072ff"/>
+      <stop offset="100%" stop-color="#6a00f4"/>
+    </linearGradient>
+
+    <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feBlend in="SourceGraphic" in2="b" mode="normal"/>
+    </filter>
+
+    <style>
+      .title { font: bold 34px 'Segoe UI', Roboto, sans-serif; fill: white; }
+      .subtitle { font: 16px 'Segoe UI', Roboto, sans-serif; fill: #f0f6ff; opacity: 0.9; }
+      .tag { font: 12px 'Segoe UI', Roboto, sans-serif; fill: white; }
+      .glow { filter: url(#f1); opacity:0.9; }
+    </style>
+  </defs>
+
+  <!-- animated background shapes -->
+  <rect width="1200" height="220" rx="8" fill="url(#g1)"/>
+  <g transform="translate(0,0)" opacity="0.12">
+    <circle cx="100" cy="40" r="120">
+      <animate attributeName="cx" dur="12s" values="80;110;300;80" repeatCount="indefinite" />
+      <animate attributeName="cy" dur="10s" values="40;120;60;40" repeatCount="indefinite" />
+      <animate attributeName="r" dur="8s" values="90;130;70;90" repeatCount="indefinite" />
+      <animate attributeName="opacity" dur="14s" values="0.12;0.06;0.18;0.12" repeatCount="indefinite" />
+      <set attributeName="fill" to="#ffffff"/>
+    </circle>
+
+    <circle cx="1080" cy="160" r="140">
+      <animate attributeName="cx" dur="15s" values="1080;900;1100;1080" repeatCount="indefinite" />
+      <animate attributeName="cy" dur="11s" values="160;40;180;160" repeatCount="indefinite" />
+      <animate attributeName="r" dur="9s" values="120;160;100;120" repeatCount="indefinite" />
+      <animate attributeName="opacity" dur="13s" values="0.10;0.02;0.16;0.10" repeatCount="indefinite" />
+      <set attributeName="fill" to="#ffffff"/>
+    </circle>
+  </g>
+
+  <!-- "card" shadow -->
+  <rect x="30" y="30" rx="12" width="1140" height="160" fill="transparent" class="glow"/>
+
+  <!-- left content -->
+  <g transform="translate(60,60)">
+    <text class="title">Praful Patnecha</text>
+    <text class="subtitle" y="36">Flutter Developer • Mobile UI / UX • Cross-platform</text>
+
+    <!-- tags -->
+    <g transform="translate(0,78)" >
+      <rect x="0" y="-14" width="150" height="28" rx="6" fill="#ffffff22"/>
+      <text class="tag" x="12" y="6">🇮🇳 India</text>
+
+      <rect x="170" y="-14" width="220" height="28" rx="6" fill="#ffffff22"/>
+      <text class="tag" x="182" y="6">💼 BCA • Mastering Flutter</text>
+
+      <rect x="410" y="-14" width="220" height="28" rx="6" fill="#ffffff22"/>
+      <text class="tag" x="422" y="6">📫 prafulpatnecha@gmail.com</text>
+    </g>
+  </g>
+
+  <!-- animated "code" blocks on right -->
+  <g transform="translate(820,40)">
+    <rect x="0" y="0" width="300" height="140" rx="8" fill="#00000022"/>
+    <!-- moving lines to simulate code -->
+    <g fill="#ffffff66" transform="translate(12,14)">
+      <rect x="0" y="0" width="220" height="10" rx="5">
+        <animate attributeName="width" dur="4s" values="140;220;160;140" repeatCount="indefinite" />
+      </rect>
+      <rect x="0" y="22" width="190" height="10" rx="5">
+        <animate attributeName="width" dur="3.6s" values="190;140;200;190" repeatCount="indefinite" />
+      </rect>
+      <rect x="0" y="44" width="160" height="10" rx="5">
+        <animate attributeName="width" dur="4.4s" values="120;160;90;120" repeatCount="indefinite" />
+      </rect>
+      <rect x="0" y="66" width="200" height="10" rx="5">
+        <animate attributeName="width" dur="5s" values="200;120;200;200" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+</svg>
 
 <!-- Put banner.svg at repo root (see instructions below) -->
 <p align="center">
