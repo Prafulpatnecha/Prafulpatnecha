@@ -13,13 +13,6 @@
 </p>
 
 ---
-
-### ✨ Quick Info
-- 🔭 Currently learning: **BCA & Mastering Flutter**
-- 💬 Ask me about: **Application Development (Flutter, Dart)**  
-- 📫 Email: **prafulpatnecha@gmail.com**
-- 🌱 Interests: UI/UX, animations, cross-platform apps
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prafulpatnecha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
