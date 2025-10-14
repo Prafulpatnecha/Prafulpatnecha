@@ -14,7 +14,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prafulpatnecha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<h3 align="center">A passionate <strong>Flutter</strong> developer from India 🇮🇳</h3>
 
 ### 🛠️ Languages & Tools
 <p align="left">
@@ -30,7 +29,7 @@
 - Cross-platform app delivery
 
 ---
-
+<h3 align="center">A passionate <strong>Flutter</strong> developer from India 🇮🇳</h3>
 ### 📊 GitHub Stats
 <p align="center">
   <!-- Replace theme param if you prefer light/dark -->
