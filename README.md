@@ -35,7 +35,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Praful Patnecha banner">
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/main/banner2.svg" role="img" aria-label="Praful Patnecha banner">
   <defs>
     <linearGradient id="g1" x1="0" x2="1">
       <stop offset="0%" stop-color="#00c6ff"/>
