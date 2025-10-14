@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/main/banner2.svg" alt="Praful Patnecha - Banner" width="100%" />
 </p>
+
 ---
 
 ### ✨ Quick Info
