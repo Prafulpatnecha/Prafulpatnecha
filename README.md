@@ -29,6 +29,7 @@
 - Cross-platform app delivery
 
 <h3 align="center">A passionate <strong>Flutter</strong> developer from India 🇮🇳</h3>
+
 ---
 
 ### 📊 GitHub Stats
