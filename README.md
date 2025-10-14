@@ -31,3 +31,75 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafulpatnecha&" alt="prafulpatnecha" /></p>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!-- Banner -->
+![banner](https://github.com/Prafulpatnecha/Prafulpatnecha/blob/ed523b8300e8c154531f24e81b4830f2454169ba/benner.jpg)
+
+<h1 align="center">🚩 Jai Shree Ram 🚩</h1>
+
+<h1 align="center">Hi there 👋, I'm <span style="color:#00BFA6;">Praful Patnecha</span></h1>
+<h3 align="center">💙 Flutter Developer | 💻 Tech Enthusiast | 🇮🇳 From India</h3>
+
+---
+
+<img align="right" width="420" src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/4f91477586999b7ccce46f0947d0fa77151323c5/giphy.gif?raw=true" alt="Coding Animation"/>
+
+### 🧠 About Me  
+💡 Currently pursuing **BCA** and mastering **Flutter Development**  
+📱 Passionate about **mobile app UI/UX** & **cross-platform experiences**  
+💬 Ask me about **Flutter**, **Dart**, and **App Architecture**  
+📧 Reach me at: **prafulpatnecha@gmail.com**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prafulpatnecha&label=Profile%20Views&color=00BFA6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,flutter,dart,php,figma,vscode,git,github&theme=light" alt="Tech Stack" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://instagram.com/prafulpatnecha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:prafulpatnecha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prafulpatnecha&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prafulpatnecha&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Skills
+💎 Flutter Widgets & Animations  
+🎨 UI/UX Design using Figma  
+⚙️ API Integration & State Management  
+📲 Cross-platform App Development  
+
+---
+
+### 🧩 Quote of the Day
+> "Code is like humor. When you have to explain it, it’s bad."  
+> — *Cory House*
+
+---
+
+<h3 align="center">✨ Crafted with 💙 by Praful Patnecha ✨</h3>
+
