@@ -1,8 +1,6 @@
 
 
 <h1 align="center">🚩 Jai Shree Ram</h1>
-<h2 align="center">Hi 👋, I'm <strong>Praful Patnecha</strong></h2>
-<h3 align="center">A passionate <strong>Flutter</strong> developer from India 🇮🇳</h3>
 
 <!-- <p align="right">
   <img src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/4f91477586999b7ccce46f0947d0fa77151323c5/giphy.gif?raw=true" alt="Coding Animation" width="320" />
@@ -12,11 +10,11 @@
   <img src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/main/banner2.svg" alt="Praful Patnecha - Banner" width="100%" />
 </p>
 
----
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prafulpatnecha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<h3 align="center">A passionate <strong>Flutter</strong> developer from India 🇮🇳</h3>
 
 ### 🛠️ Languages & Tools
 <p align="left">
