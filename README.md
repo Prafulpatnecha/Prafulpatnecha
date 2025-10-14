@@ -130,7 +130,7 @@
 <h3 align="center">A passionate <strong>Flutter</strong> developer from India 🇮🇳</h3>
 
 <p align="right">
-  <img src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/main/banner2.svg" alt="Coding Animation" width="320" />
+  <img src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/4f91477586999b7ccce46f0947d0fa77151323c5/giphy.gif?raw=true" alt="Coding Animation" width="320" />
 </p>
 
 ---
