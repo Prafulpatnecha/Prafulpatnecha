@@ -51,10 +51,19 @@
 
 ---
 
-### 📁 Projects / Examples
-Here are quick links (add these repos or links as you like)
-- [Example Flutter App — UI Showcase](#) — Short description
-- [Portfolio Website](#) — Short description
+### 🌟 Personal Projects
+
+#### 🎵 [Resso Music App](https://github.com/Prafulpatnecha/resso_music_app)
+A **Flutter-based music streaming app** inspired by Resso.  
+Features include smooth animations, custom UI, and integrated music playback.
+
+#### 📄 [Resume CV Generator](https://github.com/Prafulpatnecha/resume_cv)
+A **web app for building professional resumes** easily.  
+Users can customize templates, export in different formats, and manage multiple versions.
+
+#### 📖 [Geeta App](https://github.com/Prafulpatnecha/geeta)
+A **spiritual reading app** built with Flutter, focused on the **Bhagavad Geeta**.  
+Includes verses, translations, and a clean, distraction-free reading experience.
 
 ---
 
