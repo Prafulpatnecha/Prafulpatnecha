@@ -1,5 +1,5 @@
 <h1 align="center">🚩 Jai Shree Ram</h1>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!-- <p align="right">
   <img src="https://github.com/Prafulpatnecha/Prafulpatnecha/blob/4f91477586999b7ccce46f0947d0fa77151323c5/giphy.gif?raw=true" alt="Coding Animation" width="320" />
 </p> -->
