@@ -76,5 +76,4 @@ Includes verses, translations, and a clean, distraction-free reading experience.
 
 <p align="center">Made with ❤️ by <strong>Praful Patnecha</strong></p>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="praful-patnecha-ba020729b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/praful-patnecha-ba020729b?trk=profile-badge">Praful Patnecha</a></div>
               
