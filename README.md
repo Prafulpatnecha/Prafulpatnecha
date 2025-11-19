@@ -75,5 +75,3 @@ Includes verses, translations, and a clean, distraction-free reading experience.
 ---
 
 <p align="center">Made with ❤️ by <strong>Praful Patnecha</strong></p>
-
-              
