@@ -32,7 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  ![Praful's GitHub stats](https://github-readme-stats.vercel.app/api?username=prafulpatnecha&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prafulpatnecha&layout=compact&theme=radical)
+
   <!-- Replace theme param if you prefer light/dark -->
   <img src="https://github-readme-stats.vercel.app/api?username=prafulpatnecha&show_icons=true&count_private=true&theme=radical" alt="Praful's GitHub stats" width="48%" />
   <!-- <img src="https://streak-stats.demolab.com?user=prafulpatnecha&theme=radical" alt="GitHub Streak" width="48%" /> -->
