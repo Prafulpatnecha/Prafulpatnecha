@@ -34,7 +34,6 @@
 <p align="center">
   <!-- Replace theme param if you prefer light/dark -->
   <img src="https://github-readme-stats.vercel.app/api?username=prafulpatnecha&show_icons=true&count_private=true&theme=radical" alt="Praful's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafulpatnecha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub stats"/>
   <!-- <img src="https://streak-stats.demolab.com?user=prafulpatnecha&theme=radical" alt="GitHub Streak" width="48%" /> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=prafulpatnecha&theme=radical" alt="GitHub Streak" width="48%" />
   <!-- https://nirzak-streak-stats.vercel.app/?user=praful patnecha&theme=dark -->
